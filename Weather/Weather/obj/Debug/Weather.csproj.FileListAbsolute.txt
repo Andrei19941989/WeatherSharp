@@ -1,0 +1,16 @@
+/Users/andrejsytenkov/RiderProjects/Weather/Weather/bin/Debug/Weather.exe
+/Users/andrejsytenkov/RiderProjects/Weather/Weather/bin/Debug/Weather.pdb
+/Users/andrejsytenkov/RiderProjects/Weather/Weather/bin/Debug/System.IO.dll
+/Users/andrejsytenkov/RiderProjects/Weather/Weather/bin/Debug/System.Net.Http.dll
+/Users/andrejsytenkov/RiderProjects/Weather/Weather/bin/Debug/System.Runtime.dll
+/Users/andrejsytenkov/RiderProjects/Weather/Weather/bin/Debug/System.Security.Cryptography.Algorithms.dll
+/Users/andrejsytenkov/RiderProjects/Weather/Weather/bin/Debug/System.Security.Cryptography.Encoding.dll
+/Users/andrejsytenkov/RiderProjects/Weather/Weather/bin/Debug/System.Security.Cryptography.Primitives.dll
+/Users/andrejsytenkov/RiderProjects/Weather/Weather/bin/Debug/System.Security.Cryptography.X509Certificates.dll
+/Users/andrejsytenkov/RiderProjects/Weather/Weather/obj/Debug/Weather.csproj.AssemblyReference.cache
+/Users/andrejsytenkov/RiderProjects/Weather/Weather/obj/Debug/Weather.csproj.CoreCompileInputs.cache
+/Users/andrejsytenkov/RiderProjects/Weather/Weather/obj/Debug/Weather.csproj.CopyComplete
+/Users/andrejsytenkov/RiderProjects/Weather/Weather/obj/Debug/Weather.exe
+/Users/andrejsytenkov/RiderProjects/Weather/Weather/obj/Debug/Weather.pdb
+/Users/andrejsytenkov/RiderProjects/Weather/Weather/bin/Debug/Newtonsoft.Json.dll
+/Users/andrejsytenkov/RiderProjects/Weather/Weather/bin/Debug/Newtonsoft.Json.xml
